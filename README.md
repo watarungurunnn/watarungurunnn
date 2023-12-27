@@ -17,11 +17,11 @@
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=watarungurunnn&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=watarungurunnn&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=watarungurunnn&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=watarungurunnn&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=watarungurunnn&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=watarungurunnn&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=watarungurunnn&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=watarungurunnn&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=watarungurunnn&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=watarungurunnn&theme=2077&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=watarungurunnn&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=watarungurunnn&theme=2077)

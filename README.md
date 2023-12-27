@@ -18,10 +18,10 @@
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=watarungurunnn&theme=2077)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=watarungurunnn&layout=compact&count_private=true&show_icons=true&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=watarungurunnn&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=watarungurunnn&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=watarungurunnn&theme=2077&utcOffset=9)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=watarungurunnn&layout=compact&count_private=true&show_icons=true&theme=onedark)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=watarungurunnn&theme=2077)
